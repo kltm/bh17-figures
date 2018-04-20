@@ -39521,7 +39521,9 @@ var PeopleInteractionViewer = function(global_data, graph_id){
     var elements = []; // for cytoscape
 
     var once = {};
-    var pdegree = {};
+    var pdegree_all = {};
+    var pdegree_with = {};
+    var pdegree_on = {};
     var edges_with = [];
     var edges_on = [];
     each(us.keys(ppl2prj_on), function(ppl1){
@@ -39537,15 +39539,26 @@ var PeopleInteractionViewer = function(global_data, graph_id){
 		    once[ppl1+':'+ppl2] = true;
 		    once[ppl2+':'+ppl1] = true;
 
-		    if( ! pdegree[ppl1] ){
-			pdegree[ppl1] = 1;
+		    if( ! pdegree_all[ppl1] ){
+			pdegree_all[ppl1] = 1;
 		    }else{
-			pdegree[ppl1] = pdegree[ppl1] + 1;
+			pdegree_all[ppl1] = pdegree_all[ppl1] + 1;
 		    }
-		    if( ! pdegree[ppl2] ){
-			pdegree[ppl2] = 1;
+		    if( ! pdegree_all[ppl2] ){
+			pdegree_all[ppl2] = 1;
 		    }else{
-			pdegree[ppl2] = pdegree[ppl2] + 1;
+			pdegree_all[ppl2] = pdegree_all[ppl2] + 1;
+		    }
+		    // Now on.
+		    if( ! pdegree_on[ppl1] ){
+			pdegree_on[ppl1] = 1;
+		    }else{
+			pdegree_on[ppl1] = pdegree_on[ppl1] + 1;
+		    }
+		    if( ! pdegree_on[ppl2] ){
+			pdegree_on[ppl2] = 1;
+		    }else{
+			pdegree_on[ppl2] = pdegree_on[ppl2] + 1;
 		    }
 
 		    // Push edge data.
@@ -39578,15 +39591,26 @@ var PeopleInteractionViewer = function(global_data, graph_id){
 		    once[ppl1+':'+ppl2] = true;
 		    once[ppl2+':'+ppl1] = true;
 
-		    if( ! pdegree[ppl1] ){
-			pdegree[ppl1] = 1;
+		    if( ! pdegree_all[ppl1] ){
+			pdegree_all[ppl1] = 1;
 		    }else{
-			pdegree[ppl1] = pdegree[ppl1] + 1;
+			pdegree_all[ppl1] = pdegree_all[ppl1] + 1;
 		    }
-		    if( ! pdegree[ppl2] ){
-			pdegree[ppl2] = 1;
+		    if( ! pdegree_all[ppl2] ){
+			pdegree_all[ppl2] = 1;
 		    }else{
-			pdegree[ppl2] = pdegree[ppl2] + 1;
+			pdegree_all[ppl2] = pdegree_all[ppl2] + 1;
+		    }
+		    // Now with.
+		    if( ! pdegree_with[ppl1] ){
+			pdegree_with[ppl1] = 1;
+		    }else{
+			pdegree_with[ppl1] = pdegree_with[ppl1] + 1;
+		    }
+		    if( ! pdegree_with[ppl2] ){
+			pdegree_with[ppl2] = 1;
+		    }else{
+			pdegree_with[ppl2] = pdegree_with[ppl2] + 1;
 		    }
 
 		    // Push edge data.
@@ -39636,14 +39660,13 @@ var PeopleInteractionViewer = function(global_data, graph_id){
     });
 
     // Add nodes.
-    var degree_blob = [];
     us.each(internal_metadata['people'], function(person){
 
 	var data = {
     	    id: person['name'],
     	    label: person['name'],
     	    // label: nlbl,
-    	    pdegree: pdegree[person['name']] || 0,
+    	    pdegree: pdegree_all[person['name']] || 0,
     	    // odegree: out_degree[nid]
 	    // Order:
 	    // "Interoperability and reuse": 0,
@@ -39655,7 +39678,6 @@ var PeopleInteractionViewer = function(global_data, graph_id){
 	    cat3: 0,
 	    cat4: 0
     	};
-	degree_blob.push(pdegree[person['name']] || 0);
 
 	us.each(us.keys(ppl2thm[person['name']]), function(theme){
 	    //console.log(theme);
@@ -39677,7 +39699,23 @@ var PeopleInteractionViewer = function(global_data, graph_id){
     	});
 
     });
-    console.log(degree_blob);
+
+    // Get the degree blobs.
+    var degree_blob_all = [];
+    us.each(internal_metadata['people'], function(person){
+	degree_blob_all.push(pdegree_all[person['name']] || 0);
+    });
+    console.log(degree_blob_all);
+    var degree_blob_on = [];
+    us.each(internal_metadata['people'], function(person){
+	degree_blob_on.push(pdegree_on[person['name']] || 0);
+    });
+    console.log(degree_blob_on);
+    var degree_blob_with = [];
+    us.each(internal_metadata['people'], function(person){
+	degree_blob_with.push(pdegree_with[person['name']] || 0);
+    });
+    console.log(degree_blob_with);
 
     // Setup possible layouts.
     var layout_opts = {
