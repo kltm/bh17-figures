@@ -1,0 +1,1755 @@
+{
+    "groups": [
+        {
+            "name": "Linking RDF data to the Japanese content in review articles",
+	    "themes": [
+		"Software infrastructure"
+	    ],
+            "comment": "Added to align manuscript and slides for apparent subgroup"
+        },
+        {
+            "name": "BioRuby",
+	    "themes": [
+		"Software infrastructure"
+	    ],
+            "comment": "Added to align manuscript and slides for apparent subgroup"
+        },
+        {
+            "name": "Pitagora-Galaxy",
+	    "themes": [
+		"Software infrastructure"
+	    ],
+            "comment": "Added to align manuscript and slides for apparent subgroup"
+        },
+        {
+            "name": "PPPeptide",
+	    "themes": [
+		"Omics integration and accessibility"
+	    ],
+            "comment": "Added denovo for singleton naito"
+        },
+        {
+            "name": "Submit papers of BH13-14 and BH15!",
+	    "themes": [
+	    ],
+            "comment": ""
+        },
+        {
+            "name": "LODVectors",
+	    "themes": [
+		"Machine learning"
+	    ],
+            "comment": "Added to clarify manuscript and align with wrap-up slides"
+        },
+        {
+            "name": "scJSON-LD",
+	    "themes": [
+		"Software infrastructure"
+	    ],
+            "comment": "Added to clarify manuscript and align with wrap-up slides for bonnal"
+        },
+        {
+            "name": "Fastastic Graphalicious",
+	    "themes": [
+		"Omics integration and accessibility"
+	    ],
+            "comment": ""
+        },
+        {
+            "name": "Glycoinformatics",
+	    "themes": [
+		"Omics integration and accessibility"
+	    ],
+            "comment": ""
+        },
+        {
+            "name": "gBWT-sparql-hack",
+	    "themes": [
+		"Omics integration and accessibility"
+	    ],
+            "comment": "Theme guessed from group members at https://github.com/jltsiren/gbwt"
+        },
+        {
+            "name": "Building FAIR Projectors",
+	    "themes": [
+		"Interoperability and reuse"
+	    ],
+            "comment": ""
+        },
+        {
+            "name": "Harmonization of chemical name concepts",
+	    "themes": [
+		"Machine learning"
+	    ],
+            "comment": "Apparently the PubChem group"
+        },
+        {
+            "name": "Writ of hackathons",
+	    "themes": [
+	    ],
+            "comment": ""
+        },
+        {
+            "name": "Data Analysis Pipelines and Reproducibility",
+	    "themes": [
+		"Interoperability and reuse"
+	    ],
+            "comment": ""
+        },
+        {
+            "name": "YACLE",
+	    "themes": [
+		"Software infrastructure"
+	    ],
+            "comment": "Added theme as SI as was in workflow in wrap-up"
+        },
+        {
+            "name": "Localization (Translation) and Security stuff of Galaxy",
+	    "themes": [
+		"Interoperability and reuse"
+	    ],
+            "comment": ""
+        },
+        {
+            "name": "Linked ICGC",
+	    "themes": [
+		"Interoperability and reuse"
+	    ],
+            "comment": ""
+        },
+        {
+            "name": "Blockchain, IPFS and Smart Contracts in the Life Sciences",
+	    "themes": [
+		"Software infrastructure"
+	    ],
+            "comment": ""
+        },
+        {
+            "name": "API interoperability facilitated by JSON-LD, OpenAPI and more",
+	    "themes": [
+		"Interoperability and reuse"
+	    ],
+            "comment": ""
+        },
+        {
+            "name": "Bioschemas",
+	    "themes": [
+		"Interoperability and reuse"
+	    ],
+            "comment": ""
+        },
+        {
+            "name": "Construct genome graphs",
+	    "themes": [
+		"Omics integration and accessibility"
+	    ],
+            "comment": "Guessed from vg shout-out in wrap-up"
+        },
+        {
+            "name": "EBI RDF Platform",
+	    "themes": [
+		"Interoperability and reuse"
+	    ],
+            "comment": "??? Norio (interested) [ed--ambiguous, picked shinkai]"
+        },
+        {
+            "name": "LOD Surfer",
+	    "themes": [
+		"Software infrastructure"
+	    ],
+            "comment": ""
+        },
+        {
+            "name": "Imaging Database and Morphomics Platform",
+	    "themes": [
+		"Interoperability and reuse"
+	    ],
+            "comment": ""
+        },
+        {
+            "name": "A smartAPI for Spontaneous Reporting Systems (SRS) - FDA FAERS",
+	    "themes": [
+		"Interoperability and reuse"
+	    ],
+            "comment": ""
+        },
+        {
+            "name": "EnvO and MEO mapping",
+	    "themes": [
+		"Interoperability and reuse"
+	    ],
+            "comment": ""
+        },
+        {
+            "name": "How to improve OBO ontology development for hackability",
+	    "themes": [
+		"Interoperability and reuse"
+	    ],
+            "comment": ""
+        },
+        {
+            "name": "Linking bio/omics data to the Sustainable Development Goals",
+	    "themes": [
+		"Interoperability and reuse"
+	    ],
+            "comment": "??? Norio (interested) [ed--picked shinkai]; theme inferred from BH17 sub-groups description"
+        },
+        {
+            "name": "FAIR Metrics",
+	    "themes": [
+		"Interoperability and reuse"
+	    ],
+            "comment": ""
+        },
+        {
+            "name": "PubCaseFinder REST API development and integration",
+	    "themes": [
+		"Interoperability and reuse"
+	    ],
+            "comment": ""
+        },
+        {
+            "name": "Develop Docker container for Monarch semantic similarity measures",
+	    "themes": [
+		"Software infrastructure"
+	    ],
+            "comment": ""
+        },
+        {
+            "name": "Matchmaker Exchange tooling",
+	    "themes": [
+		"Interoperability and reuse"
+	    ],
+            "comment": ""
+        },
+        {
+            "name": "Ontology term requestor service",
+	    "themes": [
+		"Software infrastructure"
+	    ],
+            "comment": "Theme inferred from people and BH17 sub-groups description"
+        },
+        {
+            "name": "Variant Subscription Service",
+	    "themes": [
+		"Omics integration and accessibility"
+	    ],
+            "comment": ""
+        },
+        {
+            "name": "Citation Graph Visualization",
+	    "themes": [
+		"Software infrastructure"
+	    ],
+            "comment": ""
+        },
+        {
+            "name": "iMETHYL database",
+	    "themes": [
+		"Omics integration and accessibility"
+	    ],
+            "comment": ""
+        },
+        {
+            "name": "Extending properties of a bioscience ontology developed from JST thesaurus",
+	    "themes": [
+	    ],
+            "comment": "Hard to categorize"
+        },
+        {
+            "name": "Medical Genomics Japan Variant Database (MGeND)",
+	    "themes": [
+		"Omics integration and accessibility"
+	    ],
+            "comment": ""
+        },
+        {
+            "name": "Visualize and export genomics data via trackHub",
+	    "themes": [
+		"Omics integration and accessibility"
+	    ],
+            "comment": ""
+        },
+        {
+            "name": "DBCLS SRA & AOE (All of gene expression)",
+	    "themes": [
+		"Omics integration and accessibility"
+	    ],
+            "comment": ""
+        },
+        {
+            "name": "smart protocols",
+	    "themes": [
+		"Software infrastructure"
+	    ],
+            "comment": ""
+        },
+        {
+            "name": "Journal of (Biomedical|FAIR) Open Data",
+	    "themes": [
+	    ],
+            "comment": ""
+        },
+        {
+            "name": "Neuro-symbolic learning on a rare disease oriented graph for drug repurposing",
+	    "themes": [
+		"Machine learning"
+	    ],
+            "comment": ""
+        },
+        {
+            "name": "Harnessing the standardized Orthology Ontology for inferring new information",
+	    "themes": [
+		"Interoperability and reuse"
+	    ],
+            "comment": ""
+        },
+        {
+            "name": "jPOST",
+	    "themes": [
+		"Omics integration and accessibility"
+	    ],
+            "comment": ""
+        },
+        {
+            "name": "TogoGenome",
+	    "themes": [
+		"Omics integration and accessibility"
+	    ],
+            "comment": ""
+        },
+        {
+            "name": "Viridiplantae SNP Annotation",
+	    "themes": [
+		"Interoperability and reuse"
+	    ],
+            "comment": ""
+        },
+        {
+            "name": "Stanza Development for Integrated Human Variation Database",
+	    "themes": [
+		"Omics integration and accessibility"
+	    ],
+            "comment": "Theme inferred from close relation to TogoGenome from BH17 sub0groups"
+        },
+        {
+            "name": "Machine Learning Group",
+	    "themes": [
+		"Machine learning"
+	    ],
+            "comment": ""
+        },
+        {
+            "name": "Machine learning of phenotype data",
+	    "themes": [
+		"Machine learning"
+	    ],
+            "comment": "Added group to clarify Claus in the manuscript beyond Machine Learning Group"
+        },
+        {
+            "name": "Data Integration of Earth Science and Genome Science",
+	    "themes": [
+		"Interoperability and reuse"
+	    ],
+            "comment": ""
+        },
+        {
+            "name": "Reaction Generators, Substructure Finders, and Reaction Ontology",
+	    "themes": [
+	    ],
+            "comment": "Hard to categorize; little info"
+        },
+        {
+            "name": "Automating the Annotation of Uncharacterized Disease-Associated Genes",
+	    "themes": [
+		"Machine learning"
+	    ],
+            "comment": ""
+        },
+        {
+            "name": "Exploring big data tools for aggregating disparate data",
+	    "themes": [
+		"Interoperability and reuse"
+	    ],
+            "comment": ""
+        },
+        {
+            "name": "Noctua curator information ingest",
+	    "themes": [
+		"Software infrastructure"
+	    ],
+            "comment": ""
+        },
+        {
+            "name": "Lisp(s) in Bioinformatics (Bio-Lisp)",
+	    "themes": [
+		"Software infrastructure"
+	    ],
+            "comment": ""
+        },
+        {
+            "name": "Discussion of Light Application-level API (LALA)",
+	    "themes": [
+		"Software infrastructure"
+	    ],
+            "comment": ""
+        },
+        {
+            "name": "JavaScript SPARQL libraries (BBOP)",
+	    "themes": [
+		"Software infrastructure"
+	    ],
+            "comment": ""
+        }
+    ],
+    "people": [
+        {
+            "name": "Antezana, Erick",
+            "project": "Semantic Web for the Wet Lab and for Agriculture",
+            "affiliation": "Norwegian University of Science and Technology (NTNU) / Bayer CropScience, Norway",
+            "groups": [],
+            "worked-on": [
+                "Submit papers of BH13-14 and BH15!",
+                "smart protocols",
+                "Blockchain, IPFS and Smart Contracts in the Life Sciences"
+            ],
+            "worked-with": [
+                "Viridiplantae SNP Annotation",
+                "TogoGenome",
+                "jPOST",
+                "Neuro-symbolic learning on a rare disease oriented graph for drug repurposing",
+                "FAIR Metrics",
+                "Writ of hackathons"
+            ]
+        },
+        {
+            "name": "Aoki-Kinoshita, Kiyoko F.",
+            "project": "GlyCosmos",
+            "affiliation": "Soka University, Japan",
+            "groups": [],
+            "worked-on": [
+                "Glycoinformatics"
+            ],
+            "worked-with": [
+                "jPOST",
+                "Harnessing the standardized Orthology Ontology for inferring new information",
+                "Neuro-symbolic learning on a rare disease oriented graph for drug repurposing",
+                "smart protocols",
+                "Linking bio/omics data to the Sustainable Development Goals",
+                "Harmonization of chemical name concepts",
+                "Construct genome graphs",
+                "EBI RDF Platform",
+                "Noctua curator information ingest"
+            ]
+        },
+        {
+            "name": "Araki, Ayano",
+            "project": "???",
+            "affiliation": "Kyoto University, Japan",
+            "groups": [],
+            "worked-on": [
+                "Medical Genomics Japan Variant Database (MGeND)"
+            ],
+            "worked-with": []
+        },
+        {
+            "name": "Banda, Juan",
+            "project": "SRS smartAPI",
+            "affiliation": "Stanford University, USA",
+            "groups": [],
+            "worked-on": [
+                "A smartAPI for Spontaneous Reporting Systems (SRS) - FDA FAERS"
+            ],
+            "worked-with": [
+                "Writ of hackathons",
+                "API interoperability facilitated by JSON-LD, OpenAPI and more"
+            ]
+        },
+        {
+            "name": "Baumgartner, Bill",
+            "project": "annotegrate",
+            "affiliation": "University of Colorado Denver, USA",
+            "groups": [],
+            "worked-on": [
+                "Exploring big data tools for aggregating disparate data",
+                "Automating the Annotation of Uncharacterized Disease-Associated Genes"
+            ],
+            "worked-with": [
+                "How to improve OBO ontology development for hackability",
+                "Lisp(s) in Bioinformatics (Bio-Lisp)"
+            ]
+        },
+        {
+            "name": "Bolleman, Jerven",
+            "project": "UniProt",
+            "affiliation": "Swiss Institute of Bioinformatics (SIB), Switzerland",
+            "groups": [],
+            "worked-on": [
+                "gBWT-sparql-hack",
+                "Building FAIR Projectors",
+		"LODVectors"
+            ],
+            "worked-with": []
+        },
+        {
+            "name": "Bolton, Evan",
+            "project": "PubChem",
+            "affiliation": "National Center for Biotechnology Information (NCBI), USA",
+            "groups": [],
+            "worked-on": [
+                "Submit papers of BH13-14 and BH15!",
+                "Glycoinformatics",
+                "Harmonization of chemical name concepts",
+                "Writ of hackathons"
+            ],
+            "worked-with": []
+        },
+        {
+            "name": "Bonnal, Raoul Jean Pierre",
+            "project": "scJSON-LD",
+            "affiliation": "Fondazione Istituto Nazionale Genetica Molecolare (INGM), Italy",
+            "groups": [],
+            "worked-on": [
+		"scJSON-LD",
+                "Journal of (Biomedical|FAIR) Open Data",
+                "Data Analysis Pipelines and Reproducibility"
+            ],
+            "worked-with": []
+        },
+        {
+            "name": "Bono, Hidemasa",
+            "project": "Public NGS data portal",
+            "affiliation": "Database Center for Life Science (DBCLS), ROIS, Japan",
+            "groups": [],
+            "worked-on": [
+                "DBCLS SRA & AOE (All of gene expression)"
+            ],
+            "worked-with": []
+        },
+        {
+            "name": "Burgstaller-Muehlbacher, Sebastian",
+            "project": "Citation Graph Explorer",
+            "affiliation": "The Scripps Research Institute, USA",
+            "groups": [],
+            "worked-on": [
+                "Citation Graph Visualization"
+            ],
+            "worked-with": [
+                "Harmonization of chemical name concepts",
+                "EBI RDF Platform",
+                "Noctua curator information ingest"
+            ]
+        },
+        {
+            "name": "Buske, Orion",
+            "project": "PhenoTips, PhenomeCentral, MME, RareConnect",
+            "affiliation": "Hospital for Sick Children (SickKids)",
+            "groups": [],
+            "worked-on": [
+                "Variant Subscription Service",
+                "Ontology term requestor service",
+                "Matchmaker Exchange tooling",
+                "PubCaseFinder REST API development and integration"
+            ],
+            "worked-with": [
+                "Develop Docker container for Monarch semantic similarity measures"
+            ]
+        },
+        {
+            "name": "Buttigieg, Pier Luigi",
+            "project": "Ontologies for planetary ecology and sustainable development",
+            "affiliation": "Alfred Wegener Institute Helmholtz Centre for Polar and Marine Research (AWI), Germany",
+            "groups": [],
+            "worked-on": [
+                "Linking bio/omics data to the Sustainable Development Goals",
+                "How to improve OBO ontology development for hackability",
+                "EnvO and MEO mapping"
+            ],
+            "worked-with": [
+                "smart protocols",
+                "Ontology term requestor service",
+                "Develop Docker container for Monarch semantic similarity measures"
+            ]
+        },
+        {
+            "name": "Callahan, Tiffany",
+            "project": "ignorenets",
+            "affiliation": "University of Colorado Denver | Anschutz Medical Campus (AMC), USA",
+            "groups": [],
+            "worked-on": [
+                "Automating the Annotation of Uncharacterized Disease-Associated Genes"
+            ],
+            "worked-with": [
+                "Machine Learning Group"
+            ]
+        },
+        {
+            "name": "Carbon, Seth",
+            "project": "Gene Ontology, Noctua",
+            "affiliation": "Lawrence Berkeley National Laboratory (LBL), USA",
+            "groups": [],
+            "worked-on": [
+                "Develop Docker container for Monarch semantic similarity measures",
+                "JavaScript SPARQL libraries (BBOP)",
+                "Noctua curator information ingest",
+                "Discussion of Light Application-level API (LALA)",
+                "Lisp(s) in Bioinformatics (Bio-Lisp)"
+            ],
+            "worked-with": [
+                "Ontology term requestor service",
+                "Localization (Translation) and Security stuff of Galaxy"
+            ]
+        },
+        {
+            "name": "Chiba, Hirokazu",
+            "project": "Ortholog Ontology",
+            "affiliation": "Database Center for Life Science (DBCLS), ROIS, Japan",
+            "groups": [],
+            "worked-on": [
+                "Harnessing the standardized Orthology Ontology for inferring new information"
+            ],
+            "worked-with": [
+                "Data Integration of Earth Science and Genome Science"
+            ]
+        },
+        {
+            "name": "Dumontier, Michel",
+            "project": "FAIR, Bio2RDF, SIO",
+            "affiliation": "Institute of Data Science, Maastricht University, Netherlands",
+            "groups": [],
+            "worked-on": [
+                "Submit papers of BH13-14 and BH15!",
+                "Exploring big data tools for aggregating disparate data",
+                "Machine Learning Group",
+                "Ontology term requestor service",
+                "FAIR Metrics",
+                "API interoperability facilitated by JSON-LD, OpenAPI and more",
+                "Bioschemas",
+		"LODVectors"
+            ],
+            "worked-with": []
+        },
+        {
+            "name": "Eizenga, Jordan",
+            "project": "Genome graphs",
+            "affiliation": "University of California Santa Cruz (UCSC), USA",
+            "groups": [],
+            "worked-on": [
+                "Fastastic Graphalicious"
+            ],
+            "worked-with": []
+        },
+        {
+            "name": "Fujiwara, Toyofumi",
+            "project": "PubCases",
+            "affiliation": "Database Center for Life Science (DBCLS), ROIS, Japan",
+            "groups": [],
+            "worked-on": [
+                "Stanza Development for Integrated Human Variation Database",
+                "PubCaseFinder REST API development and integration"
+            ],
+            "worked-with": [
+                "Automating the Annotation of Uncharacterized Disease-Associated Genes",
+                "Ontology term requestor service",
+                "Develop Docker container for Monarch semantic similarity measures"
+            ]
+        },
+        {
+            "name": "Garcia, Alexander",
+            "project": "Biotea, Smart protocols",
+            "affiliation": "Universidad Politecnica de Madrid, Spain",
+            "groups": [],
+            "worked-on": [
+                "Journal of (Biomedical|FAIR) Open Data",
+                "smart protocols",
+                "Writ of hackathons",
+                "Blockchain, IPFS and Smart Contracts in the Life Sciences",
+                "Bioschemas"
+            ],
+            "worked-with": [
+                "Machine Learning Group",
+                "Citation Graph Visualization"
+            ]
+        },
+        {
+            "name": "Garcia Castro",
+            "project": "Bioschemas",
+            "affiliation": "European Bioinformatics Institute (EMBL-EBI), UK",
+            "groups": [],
+            "worked-on": [],
+            "worked-with": []
+        },
+        {
+            "name": "Leyla Jael",
+            "project": "Bioschemas",
+            "affiliation": "European Bioinformatics Institute (EMBL-EBI), UK",
+            "groups": [],
+            "worked-on": [
+                "Bioschemas"
+            ],
+            "worked-with": [
+                "Machine Learning Group",
+                "Citation Graph Visualization",
+                "FAIR Metrics",
+                "Writ of hackathons",
+                "Blockchain, IPFS and Smart Contracts in the Life Sciences",
+                "Construct genome graphs"
+            ]
+        },
+        {
+            "name": "Garrison, Erik",
+            "project": "Variation graphs",
+            "affiliation": "Wellcome Trust Sanger Institute, UK",
+            "groups": [],
+            "worked-on": [
+                "Fastastic Graphalicious",
+                "How to improve OBO ontology development for hackability",
+                "gBWT-sparql-hack",
+                "Construct genome graphs"
+            ],
+            "worked-with": []
+        },
+        {
+            "name": "Ghelfi, Andrea",
+            "project": "Automated Annotation for Allele-Specific Expression",
+            "affiliation": "Kazusa DNA Research Institute (KDRI), Japan",
+            "groups": [],
+            "worked-on": [
+                "Viridiplantae SNP Annotation",
+                "smart protocols"
+            ],
+            "worked-with": [
+                "Neuro-symbolic learning on a rare disease oriented graph for drug repurposing"
+            ]
+        },
+        {
+            "name": "Goto, Naohisa",
+            "project": "BioRuby",
+            "affiliation": "Research Institute for Microbial Diseases (RIMD), Osaka University, Japan",
+            "groups": [],
+            "worked-on": [
+		"BioRuby",
+                "Data Analysis Pipelines and Reproducibility"
+            ],
+            "worked-with": [
+                "Data Integration of Earth Science and Genome Science"
+            ]
+        },
+        {
+            "name": "Goto, Susumu",
+            "project": "jPOST",
+            "affiliation": "Database Center for Life Science (DBCLS), ROIS, Japan",
+            "groups": [],
+            "worked-on": [
+                "jPOST"
+            ],
+            "worked-with": [
+                "Data Integration of Earth Science and Genome Science",
+                "Harnessing the standardized Orthology Ontology for inferring new information",
+                "Neuro-symbolic learning on a rare disease oriented graph for drug repurposing",
+                "EnvO and MEO mapping",
+                "A smartAPI for Spontaneous Reporting Systems (SRS) - FDA FAERS",
+                "Harmonization of chemical name concepts"
+            ]
+        },
+        {
+            "name": "Groza, Tudor",
+            "project": "???",
+            "affiliation": "Kinghorn Centre for Clinical Genomics, Garvan Institute of Medical Research, Australia",
+            "groups": [],
+            "worked-on": [
+                "Matchmaker Exchange tooling",
+                "Develop Docker container for Monarch semantic similarity measures",
+                "PubCaseFinder REST API development and integration"
+            ],
+            "worked-with": []
+        },
+        {
+            "name": "Hachiya, Tsuyoshi",
+            "project": "iMethyl omics DB",
+            "affiliation": "Iwate Medical University (IMU), Japan",
+            "groups": [],
+            "worked-on": [
+                "iMETHYL database"
+            ],
+            "worked-with": [
+                "Visualize and export genomics data via trackHub",
+                "Linked ICGC"
+            ]
+        },
+        {
+            "name": "Hattori, Masahiro",
+            "project": "???",
+            "affiliation": "Genomedia Inc., Japan",
+            "groups": [],
+            "worked-on": [],
+            "worked-with": []
+        },
+        {
+            "name": "Hickey, Glenn",
+            "project": "Genome graphs",
+            "affiliation": "Arenaria Inc, Canada",
+            "groups": [],
+            "worked-on": [
+                "Fastastic Graphalicious"
+            ],
+            "worked-with": [
+                "Construct genome graphs"
+            ]
+        },
+        {
+            "name": "Higashimoto, Shinichi",
+            "project": "???",
+            "affiliation": "Soka University, Japan",
+            "groups": [],
+            "worked-on": [
+                "Glycoinformatics"
+            ],
+            "worked-with": []
+        },
+        {
+            "name": "Hoehndorf, Robert",
+            "project": "AberOWL",
+            "affiliation": "King Abdullah University of Science and Technology (KAUST), Saudi Arabia",
+            "groups": [],
+            "worked-on": [
+                "Machine Learning Group",
+                "Neuro-symbolic learning on a rare disease oriented graph for drug repurposing",
+                "Building FAIR Projectors",
+		"LODVectors"
+            ],
+            "worked-with": [
+                "Medical Genomics Japan Variant Database (MGeND)",
+                "Harmonization of chemical name concepts",
+                "LOD Surfer"
+            ]
+        },
+        {
+            "name": "Ishii, Manabu",
+            "project": "???",
+            "affiliation": "Bioinformatics Research Unit RIKEN, Japan",
+            "groups": [],
+            "worked-on": [],
+            "worked-with": [
+                "Citation Graph Visualization",
+                "YACLE",
+                "Localization (Translation) and Security stuff of Galaxy",
+                "Blockchain, IPFS and Smart Contracts in the Life Sciences"
+            ]
+        },
+        {
+            "name": "Itaya, Kotone",
+            "project": "???",
+            "affiliation": "Keio University, Japan",
+            "groups": [],
+            "worked-on": [
+                "Data Analysis Pipelines and Reproducibility"
+            ],
+            "worked-with": [
+                "API interoperability facilitated by JSON-LD, OpenAPI and more"
+            ]
+        },
+        {
+            "name": "Kamada, Mayumi",
+            "project": "???",
+            "affiliation": "Kyoto University, Japan",
+            "groups": [],
+            "worked-on": [
+                "Medical Genomics Japan Variant Database (MGeND)"
+            ],
+            "worked-with": []
+        },
+        {
+            "name": "Karczewski, Konrad",
+            "project": "ExAC browser",
+            "affiliation": "Broad Institute, USA",
+            "groups": [],
+            "worked-on": [
+                "Journal of (Biomedical|FAIR) Open Data",
+                "Variant Subscription Service"
+            ],
+            "worked-with": [
+                "Data Analysis Pipelines and Reproducibility"
+            ]
+        },
+        {
+            "name": "Katayama, Toshiaki",
+            "project": "TogoGenome, BioRuby",
+            "affiliation": "Database Center for Life Science (DBCLS), ROIS, Japan",
+            "groups": [],
+            "worked-on": [
+                "Submit papers of BH13-14 and BH15!",
+                "Stanza Development for Integrated Human Variation Database",
+                "TogoGenome",
+                "Medical Genomics Japan Variant Database (MGeND)",
+		"LODVectors"
+            ],
+            "worked-with": [
+                "Variant Subscription Service",
+                "Ontology term requestor service",
+                "Writ of hackathons",
+                "API interoperability facilitated by JSON-LD, OpenAPI and more",
+                "Construct genome graphs",
+                "EBI RDF Platform"
+            ]
+        },
+        {
+            "name": "Katsumata, Eri",
+            "project": "???",
+            "affiliation": "Department of Computational Biology and Medical Sciences, Graduate School of Frontier Sciences(GSFS), The University of Tokyo, Japan",
+            "groups": [],
+            "worked-on": [],
+            "worked-with": []
+        },
+        {
+            "name": "Kawaguchi, Takeshi",
+            "project": "Pitagora Galaxy, Microbial Genome",
+            "affiliation": "Tokyo University of Agriculture, Japan",
+            "groups": [],
+            "worked-on": [
+                "Data Analysis Pipelines and Reproducibility"
+            ],
+            "worked-with": [
+                "Data Analysis Pipelines and Reproducibility"
+            ]
+        },
+        {
+            "name": "Kawaji, Hideya",
+            "project": "FANTOM, ChIP-Atlas",
+            "affiliation": "RIKEN, Japan",
+            "groups": [],
+            "worked-on": [
+                "Visualize and export genomics data via trackHub"
+            ],
+            "worked-with": [
+                "Variant Subscription Service"
+            ]
+        },
+        {
+            "name": "Kawano, Shin",
+            "project": "kero, iHEC, MME, jPOST, TogoTable",
+            "affiliation": "Database Center for Life Science (DBCLS), ROIS, Japan",
+            "groups": [],
+            "worked-on": [
+                "jPOST"
+            ],
+            "worked-with": [
+                "Matchmaker Exchange tooling",
+                "Blockchain, IPFS and Smart Contracts in the Life Sciences"
+            ]
+        },
+        {
+            "name": "Kawashima, Shuichi",
+            "project": "NBDC RDF Portal, TogoGenome",
+            "affiliation": "Database Center for Life Science (DBCLS), ROIS, Japan",
+            "groups": [],
+            "worked-on": [
+                "TogoGenome",
+                "Medical Genomics Japan Variant Database (MGeND)",
+		"LODVectors",
+                "iMETHYL database"
+            ],
+            "worked-with": [
+                "Data Integration of Earth Science and Genome Science",
+                "Machine Learning Group",
+                "Stanza Development for Integrated Human Variation Database",
+                "EnvO and MEO mapping",
+                "Linked ICGC",
+                "EBI RDF Platform"
+            ]
+        },
+        {
+            "name": "Kawashima, Takeshi",
+            "project": "MassBank RDF",
+            "affiliation": "National Institute of Genetics (NIG), Japan",
+            "groups": [],
+            "worked-on": [
+                "Data Integration of Earth Science and Genome Science"
+            ],
+            "worked-with": []
+        },
+        {
+            "name": "Kim, Jin-Dong",
+            "project": "PubAnnotation, LODQA",
+            "affiliation": "Database Center for Life Science (DBCLS), ROIS, Japan",
+            "groups": [],
+            "worked-on": [
+                "Automating the Annotation of Uncharacterized Disease-Associated Genes"
+            ],
+            "worked-with": [
+                "Discussion of Light Application-level API (LALA)"
+            ]
+        },
+        {
+            "name": "Kobayashi, Norio",
+            "project": "???",
+            "affiliation": "RIKEN, Japan",
+            "groups": [],
+            "worked-on": [
+                "LOD Surfer",
+                "Imaging Database and Morphomics Platform"
+            ],
+            "worked-with": []
+        },
+        {
+            "name": "Kohara, Yuji",
+            "project": "Director",
+            "affiliation": "Database Center for Life Science (DBCLS), ROIS, Japan",
+            "groups": [],
+            "worked-on": [],
+            "worked-with": []
+        },
+        {
+            "name": "Kojima, Ryosuke",
+            "project": "???",
+            "affiliation": "Kyoto University, Japan",
+            "groups": [],
+            "worked-on": [
+                "Medical Genomics Japan Variant Database (MGeND)"
+            ],
+            "worked-with": []
+        },
+        {
+            "name": "Kotera, Masaaki",
+            "project": "Reaction Ontology",
+            "affiliation": "Tokyo Institute of Technology, Japan",
+            "groups": [],
+            "worked-on": [
+                "Reaction Generators, Substructure Finders, and Reaction Ontology"
+            ],
+            "worked-with": []
+        },
+        {
+            "name": "Kumagai, Sadahiro",
+            "project": "???",
+            "affiliation": "Hitachi, Ltd., Japan",
+            "groups": [],
+            "worked-on": [
+                "PubCaseFinder REST API development and integration"
+            ],
+            "worked-with": [
+                "Stanza Development for Integrated Human Variation Database",
+                "Neuro-symbolic learning on a rare disease oriented graph for drug repurposing",
+                "Variant Subscription Service",
+                "Develop Docker container for Monarch semantic similarity measures"
+            ]
+        },
+        {
+            "name": "Kume, Satoshi",
+            "project": "Image Metadata",
+            "affiliation": "RIKEN CLST, Japan",
+            "groups": [],
+            "worked-on": [
+                "Imaging Database and Morphomics Platform"
+            ],
+            "worked-with": []
+        },
+        {
+            "name": "Liener, Thomas",
+            "project": "EBI RDF Platform",
+            "affiliation": "European Bioinformatics Institute (EMBL-EBI), UK",
+            "groups": [],
+            "worked-on": [
+                "EBI RDF Platform"
+            ],
+            "worked-with": []
+        },
+        {
+            "name": "Mariethoz, Julien",
+            "project": "Glycomics@ExPASy",
+            "affiliation": "Swiss Institute of Bioinformatics (SIB), Switzerland",
+            "groups": [],
+            "worked-on": [
+                "Glycoinformatics"
+            ],
+            "worked-with": [
+                "Data Integration of Earth Science and Genome Science",
+                "Journal of (Biomedical|FAIR) Open Data",
+                "Citation Graph Visualization",
+                "Blockchain, IPFS and Smart Contracts in the Life Sciences"
+            ]
+        },
+        {
+            "name": "Mase, Shogo",
+            "project": "???",
+            "affiliation": "Level Five Co., Ltd., Japan",
+            "groups": [],
+            "worked-on": [],
+            "worked-with": [
+                "Machine Learning Group",
+                "Viridiplantae SNP Annotation",
+                "Neuro-symbolic learning on a rare disease oriented graph for drug repurposing",
+                "Construct genome graphs"
+            ]
+        },
+        {
+            "name": "Masuda, Takeshi",
+            "project": "???",
+            "affiliation": "The Institute of Scientific and Industrial Research, Osaka University (ISIR), Japan",
+            "groups": [],
+            "worked-on": [
+                "Extending properties of a bioscience ontology developed from JST thesaurus",
+                "Imaging Database and Morphomics Platform"
+            ],
+            "worked-with": []
+        },
+        {
+            "name": "Masuya, Hiroshi",
+            "project": "???",
+            "affiliation": "???",
+            "groups": [],
+            "worked-on": [
+                "Imaging Database and Morphomics Platform"
+            ],
+            "worked-with": []
+        },
+        {
+            "name": "Matsumoto, Shota",
+            "project": "???",
+            "affiliation": "Level Five Co., Ltd., Japan",
+            "groups": [],
+            "worked-on": [],
+            "worked-with": [
+                "Linked ICGC",
+                "Construct genome graphs"
+            ]
+        },
+        {
+            "name": "Mendes de Farias, Tarcisio",
+            "project": "BioSODA",
+            "affiliation": "Department of Ecology and Evolution, University of Lausanne (DEE - UNIL), Swiss Institute of Bioinformatics (SIB), Switzerland",
+            "groups": [],
+            "worked-on": [
+                "Harnessing the standardized Orthology Ontology for inferring new information"
+            ],
+            "worked-with": []
+        },
+        {
+            "name": "Micklem, Gos",
+            "project": "InterMine",
+            "affiliation": "Dept. Genetics, University of Cambridge, UK",
+            "groups": [],
+            "worked-on": [
+                "Submit papers of BH13-14 and BH15!",
+                "FAIR Metrics"
+            ],
+            "worked-with": []
+        },
+        {
+            "name": "Mikami, Takahiro",
+            "project": "Methylome analysis",
+            "affiliation": "Iwate Medical University, Japan",
+            "groups": [],
+            "worked-on": [],
+            "worked-with": []
+        },
+        {
+            "name": "Minowa, Mari",
+            "project": "Public Relations, NBDC Human DB",
+            "affiliation": "Database Center for Life Science (DBCLS), ROIS, Japan",
+            "groups": [],
+            "worked-on": [],
+            "worked-with": []
+        },
+        {
+            "name": "Mishima, Hiroyuki",
+            "project": "Rare disase phenotype pattern mining of PubMed",
+            "affiliation": "Department of Human Genetics, Nagasaki University, Japan",
+            "groups": [],
+            "worked-on": [
+		"BioRuby",
+                "Data Analysis Pipelines and Reproducibility"
+            ],
+            "worked-with": []
+        },
+        {
+            "name": "Mitsuhashi, Nobutaka",
+            "project": "TogoVar",
+            "affiliation": "National Bioscience Database Center (NBDC), Japan Science and Technology Agency (JST), Japan",
+            "groups": [],
+            "worked-on": [
+                "Stanza Development for Integrated Human Variation Database"
+            ],
+            "worked-with": []
+        },
+        {
+            "name": "Mori, Hiroshi",
+            "project": "MicrobeDB.jp, MEO",
+            "affiliation": "National Institute of Genetics, Japan",
+            "groups": [],
+            "worked-on": [
+                "EnvO and MEO mapping"
+            ],
+            "worked-with": []
+        },
+        {
+            "name": "Moriya, Yuki",
+            "project": "TogoGenome, jPOST",
+            "affiliation": "Database Center for Life Science (DBCLS), ROIS, Japan",
+            "groups": [],
+            "worked-on": [
+                "jPOST"
+            ],
+            "worked-with": [
+                "Stanza Development for Integrated Human Variation Database",
+                "TogoGenome"
+            ]
+        },
+        {
+            "name": "Nagano, Akio",
+            "project": "???",
+            "affiliation": "PENQE Inc., Japan",
+            "groups": [],
+            "worked-on": [],
+            "worked-with": []
+        },
+        {
+            "name": "Naito, Yuki",
+            "project": "GGRNA, GGGenome, CRISPRdirect",
+            "affiliation": "Database Center for Life Science (DBCLS), ROIS, Japan",
+            "groups": [],
+            "worked-on": [
+		"PPPeptide"
+	    ],
+            "worked-with": []
+        },
+        {
+            "name": "Nakatsui, Masahiko",
+            "project": "Medical Genomics Japan Variant Database",
+            "affiliation": "Kyoto University, Japan",
+            "groups": [],
+            "worked-on": [
+                "Medical Genomics Japan Variant Database (MGeND)"
+            ],
+            "worked-with": []
+        },
+        {
+            "name": "Nakazato, Takeru",
+            "project": "DBCLS SRA",
+            "affiliation": "Database Center for Life Science (DBCLS), ROIS, Japan",
+            "groups": [],
+            "worked-on": [
+                "DBCLS SRA & AOE (All of gene expression)"
+            ],
+            "worked-with": []
+        },
+        {
+            "name": "Nohara, Sachio",
+            "project": "MGeND",
+            "affiliation": "Mitsubishi Space Software Co., Ltd., Japan",
+            "groups": [],
+            "worked-on": [],
+            "worked-with": []
+        },
+        {
+            "name": "Nomura, Yusuke",
+            "project": "???",
+            "affiliation": "Level Five Co., Ltd., Japan",
+            "groups": [],
+            "worked-on": [
+                "TogoGenome"
+            ],
+            "worked-with": []
+        },
+        {
+            "name": "Novak, Adam",
+            "project": "Human Genome Variation Map",
+            "affiliation": "University of California Santa Cruz (UCSC), Genomics Institute, USA",
+            "groups": [],
+            "worked-on": [
+                "Fastastic Graphalicious",
+                "Journal of (Biomedical|FAIR) Open Data"
+            ],
+            "worked-with": [
+                "Blockchain, IPFS and Smart Contracts in the Life Sciences"
+            ]
+        },
+        {
+            "name": "Ochiai, Hiromu",
+            "project": "???",
+            "affiliation": "The Institute of Medical Science The University of Tokyo (IMSUT), Japan",
+            "groups": [],
+            "worked-on": [
+                "YACLE"
+            ],
+            "worked-with": [
+                "Data Analysis Pipelines and Reproducibility"
+            ]
+        },
+        {
+            "name": "Ogishima, Soichi",
+            "project": "???",
+            "affiliation": "Tohoku Medical Megabank Organization (ToMMo), Tohoku University, Japan",
+            "groups": [],
+            "worked-on": [
+                "Medical Genomics Japan Variant Database (MGeND)",
+                "Ontology term requestor service"
+            ],
+            "worked-with": []
+        },
+        {
+            "name": "Ohta, Tazro",
+            "project": "Pitagora Galaxy, ChIP-Atlas",
+            "affiliation": "Database Center for Life Science (DBCLS), ROIS, Japan",
+            "groups": [],
+            "worked-on": [
+                "smart protocols",
+                "DBCLS SRA & AOE (All of gene expression)",
+                "Data Analysis Pipelines and Reproducibility",
+                "EBI RDF Platform"
+            ],
+            "worked-with": [
+                "Visualize and export genomics data via trackHub",
+                "API interoperability facilitated by JSON-LD, OpenAPI and more"
+            ]
+        },
+        {
+            "name": "Ohwada, Shuho",
+            "project": "Genome graph",
+            "affiliation": "Tokyo Institute of Technology, Japan",
+            "groups": [],
+            "worked-on": [
+                "Construct genome graphs"
+            ],
+            "worked-with": []
+        },
+        {
+            "name": "Oishi, Naoya",
+            "project": "???",
+            "affiliation": "DOGRUN Inc., Japan",
+            "groups": [],
+            "worked-on": [
+                "DBCLS SRA & AOE (All of gene expression)",
+		"Linking RDF data to the Japanese content in review articles"
+            ],
+            "worked-with": []
+        },
+        {
+            "name": "Okabeppu, Yoko",
+            "project": "???",
+            "affiliation": "Mitsubishi Space Software Co., Ltd., Japan",
+            "groups": [],
+            "worked-on": [
+                "TogoGenome"
+            ],
+            "worked-with": [
+                "Stanza Development for Integrated Human Variation Database"
+            ]
+        },
+        {
+            "name": "Okuda, Shujiro",
+            "project": "jPOST, GlyTouCan",
+            "affiliation": "Niigata University, Japan",
+            "groups": [],
+            "worked-on": [
+                "jPOST"
+            ],
+            "worked-with": []
+        },
+        {
+            "name": "Omura, Munehiro",
+            "project": "AMED",
+            "affiliation": "G-Search, Japan",
+            "groups": [],
+            "worked-on": [
+                "Medical Genomics Japan Variant Database (MGeND)"
+            ],
+            "worked-with": []
+        },
+        {
+            "name": "Ono, Hiromasa",
+            "project": "RefEx, TogoTV",
+            "affiliation": "Database Center for Life Science (DBCLS), ROIS, Japan",
+            "groups": [],
+            "worked-on": [
+		"Linking RDF data to the Japanese content in review articles"
+	    ],
+            "worked-with": []
+        },
+        {
+            "name": "Prins, Pjotr",
+            "project": "GeneNetwork",
+            "affiliation": "University Medical Center Utrecht & University of Tennessee Health Science Center, Netherlands",
+            "groups": [],
+            "worked-on": [
+                "Journal of (Biomedical|FAIR) Open Data",
+                "Data Analysis Pipelines and Reproducibility"
+            ],
+            "worked-with": [
+                "Writ of hackathons",
+                "Lisp(s) in Bioinformatics (Bio-Lisp)"
+            ]
+        },
+        {
+            "name": "Queralt-Rosinach, Núria",
+            "project": "Wikidata, Knowledge.Bio, DisGeNET-RDF",
+            "affiliation": "The Scripps Research Institute (TSRI), USA",
+            "groups": [],
+            "worked-on": [
+                "Neuro-symbolic learning on a rare disease oriented graph for drug repurposing"
+            ],
+            "worked-with": [
+                "Machine Learning Group",
+                "Medical Genomics Japan Variant Database (MGeND)",
+                "Ontology term requestor service",
+                "A smartAPI for Spontaneous Reporting Systems (SRS) - FDA FAERS",
+                "Harmonization of chemical name concepts"
+            ]
+        },
+        {
+            "name": "Sakamoto, Yoshitaka",
+            "project": "???",
+            "affiliation": "Department of Computational Biology and Medical Sciences, Graduate School of Frontier Sciences(GSFS), The University of Tokyo, Japan",
+            "groups": [],
+            "worked-on": [],
+            "worked-with": []
+        },
+        {
+            "name": "Satoh, Daisuke",
+            "project": "TogoGenome",
+            "affiliation": "Level Five Co., Ltd., Japan",
+            "groups": [],
+            "worked-on": [
+                "Stanza Development for Integrated Human Variation Database",
+                "TogoGenome",
+                "Medical Genomics Japan Variant Database (MGeND)"
+            ],
+            "worked-with": []
+        },
+        {
+            "name": "Shimizu, Atsuhi",
+            "project": "iMethyl omics DB",
+            "affiliation": "Iwate Tohoku Medical Megabank Organization, Iwate Medical University, Japan",
+            "groups": [],
+            "worked-on": [],
+            "worked-with": []
+        },
+        {
+            "name": "Shinkai, Norio",
+            "project": "Pitagora Galaxy",
+            "affiliation": "National Institute of Advanced Industrial Science and Technology (AIST), Japan",
+            "groups": [],
+            "worked-on": [
+                "Data Analysis Pipelines and Reproducibility",
+		"Pitagora-Galaxy",
+                "EBI RDF Platform"
+            ],
+            "worked-with": [
+                "Linking bio/omics data to the Sustainable Development Goals"
+            ]
+        },
+        {
+            "name": "Shinmachi, Daisuke",
+            "project": "GlyCosmos",
+            "affiliation": "Soka Univirsity, Japan",
+            "groups": [],
+            "worked-on": [
+                "Glycoinformatics"
+            ],
+            "worked-with": []
+        },
+        {
+            "name": "Shinozaki, Natsuko",
+            "project": "iMethyl omics DB",
+            "affiliation": "Iwate Tohoku Medical Megabank Organization, Iwate Medical University, Japan",
+            "groups": [],
+            "worked-on": [
+                "iMETHYL database"
+            ],
+            "worked-with": [
+                "Data Analysis Pipelines and Reproducibility"
+            ]
+        },
+        {
+            "name": "Shiota, Masaaki",
+            "project": "???",
+            "affiliation": "Soka University, Japan",
+            "groups": [],
+            "worked-on": [
+                "Glycoinformatics"
+            ],
+            "worked-with": []
+        },
+        {
+            "name": "Shiwa, Yuh",
+            "project": "Pitagora Galaxy, Microbial Genome",
+            "affiliation": "Tokyo University of Agriculture, Japan",
+            "groups": [],
+            "worked-on": [
+                "Data Analysis Pipelines and Reproducibility",
+		"Pitagora-Galaxy"
+            ],
+            "worked-with": [
+                "iMETHYL database",
+                "Data Analysis Pipelines and Reproducibility"
+            ]
+        },
+        {
+            "name": "Steinberg, David",
+            "project": "???",
+            "affiliation": "University of California Santa Cruz (UCSC), Genomics Institute, USA",
+            "groups": [],
+            "worked-on": [
+                "Journal of (Biomedical|FAIR) Open Data",
+                "Data Analysis Pipelines and Reproducibility"
+            ],
+            "worked-with": [
+                "Lisp(s) in Bioinformatics (Bio-Lisp)"
+            ]
+        },
+        {
+            "name": "Suzuki, Haruo",
+            "project": "Pitagora Galaxy, Microbial Genome",
+            "affiliation": "Keio University, Japan",
+            "groups": [],
+            "worked-on": [
+                "Data Analysis Pipelines and Reproducibility",
+		"Pitagora-Galaxy"
+            ],
+            "worked-with": [
+                "Data Integration of Earth Science and Genome Science",
+                "EnvO and MEO mapping",
+                "Data Analysis Pipelines and Reproducibility"
+            ]
+        },
+        {
+            "name": "Suzuki, Shinya",
+            "project": "???",
+            "affiliation": "Tokyo Institute of Technology, Japan",
+            "groups": [],
+            "worked-on": [
+                "EnvO and MEO mapping"
+            ],
+            "worked-with": []
+        },
+        {
+            "name": "Tago, Shin-ichiro",
+            "project": "AMED hackathon",
+            "affiliation": "Fujitsu Laboratories Limited, Japan",
+            "groups": [],
+            "worked-on": [
+                "Medical Genomics Japan Variant Database (MGeND)"
+            ],
+            "worked-with": []
+        },
+        {
+            "name": "Takagi, Toshihisa",
+            "project": "Director",
+            "affiliation": "National Bioscience Database Center (NBDC), Japan Science and Technology Agency (JST), Japan",
+            "groups": [],
+            "worked-on": [],
+            "worked-with": []
+        },
+        {
+            "name": "Tanaka, Satoshi",
+            "project": "jPOST",
+            "affiliation": "Trans-IT, Japan",
+            "groups": [],
+            "worked-on": [
+                "jPOST"
+            ],
+            "worked-with": []
+        },
+        {
+            "name": "Tateishi, Yuka",
+            "project": "???",
+            "affiliation": "National Bioscience Database Center (NBDC), Japan",
+            "groups": [],
+            "worked-on": [
+                "Stanza Development for Integrated Human Variation Database",
+                "Extending properties of a bioscience ontology developed from JST thesaurus",
+		"Linking RDF data to the Japanese content in review articles"
+            ],
+            "worked-with": []
+        },
+        {
+            "name": "Tsuchiya, Issei",
+            "project": "???",
+            "affiliation": "Department of Computational Biology and Medical Sciences, Graduate School of Frontier Sciences(GSFS), The University of Tokyo, Japan",
+            "groups": [],
+            "worked-on": [],
+            "worked-with": [
+                "Data Analysis Pipelines and Reproducibility"
+            ]
+        },
+        {
+            "name": "Uchino, Eiichiro",
+            "project": "???",
+            "affiliation": "Kyoto University, Japan",
+            "groups": [],
+            "worked-on": [
+                "Medical Genomics Japan Variant Database (MGeND)"
+            ],
+            "worked-with": []
+        },
+        {
+            "name": "Vos, Rutger",
+            "project": "???",
+            "affiliation": "Naturalis Biodiversity Center (Naturalis), the Netherlands",
+            "groups": [],
+            "worked-on": [
+                "Submit papers of BH13-14 and BH15!",
+                "FAIR Metrics"
+            ],
+            "worked-with": [
+                "Machine Learning Group"
+            ]
+        },
+        {
+            "name": "Watanabe, Yu",
+            "project": "jPOST, GlyTouCan",
+            "affiliation": "Niigata University, Japan",
+            "groups": [],
+            "worked-on": [
+                "jPOST"
+            ],
+            "worked-with": []
+        },
+        {
+            "name": "Weiland, Claus",
+            "project": "FLOPO Deep Learning",
+            "affiliation": "Senckenberg Data & Modelling Centre (SGN), Germany",
+            "groups": [],
+            "worked-on": [
+		"Machine learning of phenotype data",
+                "Machine Learning Group"
+            ],
+            "worked-with": [
+                "Viridiplantae SNP Annotation",
+                "Journal of (Biomedical|FAIR) Open Data",
+                "Harmonization of chemical name concepts",
+                "Blockchain, IPFS and Smart Contracts in the Life Sciences"
+            ]
+        },
+        {
+            "name": "Wilkinson, Mark",
+            "project": "FAIR Data",
+            "affiliation": "Centre for Plant Biotechnology and Genomics (CBGP UPM-INIA), Spain",
+            "groups": [],
+            "worked-on": [
+                "FAIR Metrics",
+                "Building FAIR Projectors",
+                "API interoperability facilitated by JSON-LD, OpenAPI and more"
+            ],
+            "worked-with": [
+                "Viridiplantae SNP Annotation",
+                "LOD Surfer"
+            ]
+        },
+        {
+            "name": "Wu, Chunlei",
+            "project": "BioThings",
+            "affiliation": "The Scripps Research Institute",
+            "groups": [],
+            "worked-on": [
+                "API interoperability facilitated by JSON-LD, OpenAPI and more",
+                "Bioschemas"
+            ],
+            "worked-with": [
+                "Harmonization of chemical name concepts",
+                "EBI RDF Platform"
+            ]
+        },
+        {
+            "name": "Yamada, Issaku",
+            "project": "Glycomics, GlyTouCan, WURCS",
+            "affiliation": "The Noguchi Institute, Japan",
+            "groups": [],
+            "worked-on": [
+                "Glycoinformatics"
+            ],
+            "worked-with": [
+                "jPOST",
+                "DBCLS SRA & AOE (All of gene expression)",
+                "Medical Genomics Japan Variant Database (MGeND)",
+                "Harmonization of chemical name concepts",
+                "EBI RDF Platform"
+            ]
+        },
+        {
+            "name": "Yamada, Koichiro",
+            "project": "???",
+            "affiliation": "Genomedia Inc., Japan",
+            "groups": [],
+            "worked-on": [],
+            "worked-with": []
+        },
+        {
+            "name": "Yamada, Tomoyuki",
+            "project": "???",
+            "affiliation": "Genomedia Inc., Japan",
+            "groups": [],
+            "worked-on": [],
+            "worked-with": [
+                "Stanza Development for Integrated Human Variation Database",
+                "Neuro-symbolic learning on a rare disease oriented graph for drug repurposing",
+                "Medical Genomics Japan Variant Database (MGeND)",
+                "Variant Subscription Service",
+                "Ontology term requestor service"
+            ]
+        },
+        {
+            "name": "Yamaguchi, Atsuko",
+            "project": "SPARQL Builder",
+            "affiliation": "Database Center for Life Science (DBCLS), ROIS, Japan",
+            "groups": [],
+            "worked-on": [
+                "LOD Surfer"
+            ],
+            "worked-with": [
+                "Machine Learning Group",
+                "Ontology term requestor service"
+            ]
+        },
+        {
+            "name": "Yamamoto, Yasunori",
+            "project": "Umaka Suite, Allie, Colil",
+            "affiliation": "Database Center for Life Science (DBCLS), ROIS, Japan",
+            "groups": [],
+            "worked-on": [
+                "LOD Surfer",
+		"Linking RDF data to the Japanese content in review articles"
+            ],
+            "worked-with": [
+                "Machine Learning Group",
+                "Citation Graph Visualization",
+                "FAIR Metrics"
+            ]
+        },
+        {
+            "name": "Yamanaka, Ryota",
+            "project": "Linked ICGC",
+            "affiliation": "Oracle Corporation, Japan",
+            "groups": [],
+            "worked-on": [
+                "Data Analysis Pipelines and Reproducibility",
+                "Linked ICGC",
+		"Pitagora-Galaxy"
+            ],
+            "worked-with": [
+                "Medical Genomics Japan Variant Database (MGeND)",
+                "Localization (Translation) and Security stuff of Galaxy"
+            ]
+        },
+        {
+            "name": "Yokoyama, Toshiyuki",
+            "project": "???",
+            "affiliation": "The University of Tokyo, Japan",
+            "groups": [],
+            "worked-on": [
+                "Construct genome graphs"
+            ],
+            "worked-with": []
+        },
+        {
+            "name": "Yoshizawa, Akiyasu C.",
+            "project": "jPOST",
+            "affiliation": "Graduate School of Pharmaceutical Sciences, Kyoto University, Japan",
+            "groups": [],
+            "worked-on": [
+                "jPOST"
+            ],
+            "worked-with": []
+        }
+    ]
+}

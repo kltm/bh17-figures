@@ -1,0 +1,65 @@
+[
+    {
+        "x": [
+            "Clearly stated",
+            "Comprehensive and<br>non-negotiated",
+            "Accessible",
+            "Avoid restrictions on<br>kinds of (re)use",
+            "Avoid restrictions on<br>who may (re)use"
+        ],
+        "y": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "name": "No violations",
+        "marker": {
+            "color": "rgb(8,150,72)"
+        },
+        "type": "bar"
+    },
+    {
+        "x": [
+            "Clearly stated",
+            "Comprehensive and<br>non-negotiated",
+            "Accessible",
+            "Avoid restrictions on<br>kinds of (re)use",
+            "Avoid restrictions on<br>who may (re)use"
+        ],
+        "y": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "name": "Unknown",
+        "marker": {
+            "color": "rgb(19,99,163)"
+        },
+        "type": "bar"
+    },
+    {
+        "x": [
+            "Clearly stated",
+            "Comprehensive and<br>non-negotiated",
+            "Accessible",
+            "Avoid restrictions on<br>kinds of (re)use",
+            "Avoid restrictions on<br>who may (re)use"
+        ],
+        "y": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "name": "Have a violation",
+        "marker": {
+            "color": "rgb(128,128,128)"
+        },
+        "type": "bar"
+    }
+]
