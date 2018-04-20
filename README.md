@@ -14,6 +14,6 @@ Color map:
 * gray edge = 'wanted to discuss about project'
 
 * #E8747C (red) = "Interoperability and reuse"
-* #74CBE8 (blue) = "Machine learning"
-* #E8CB74 (yellow) = "Omics integration and accessibility"
+* #E8CB74 (yellow) = "Machine learning"
+* #74CBE8 (blue) = "Omics integration and accessibility"
 * #74E883 (green) = "Software infrastructure"
