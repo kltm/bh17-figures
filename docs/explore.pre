@@ -28,7 +28,7 @@
 
     <div class="col-xl-12">
       <h4>Project</h4>
-      <div style="width: 100%; height:700px;" id="projectinteractiongraph"></div>
+      <div style="width:1000px; height:1000px;" id="projectinteractiongraph"></div>
       <!-- <div id="interactiongraph"></div> -->
     </div>
 

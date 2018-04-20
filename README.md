@@ -1,11 +1,9 @@
-# The (Re)usable Data Project
+# BH17 Figures
 
-The home repository for the (Re)usable Data Project. Please see:
+Please see:
 
-http://reusabledata.org
+https://kltm.github.io/bh17-figures/
 
-The license for the static site generation code is available at https://github.com/reusabledata/reusabledata/blob/master/LICENSE.
+Data for generating this:
 
-The license for our site and curated reusability assessments is available at http://reusabledata.org/license.txt.
-
-We suggest using out track for questions (https://github.com/reusabledata/reusabledata/issues), but can also be can be reached at help at reusabledata dot org.
+https://github.com/kltm/bh17-figures/tree/master/data
